@@ -1,0 +1,5 @@
+215+-1ns per encode
+449+-3ns per hash (+110+-1ns for digest)
+546+-5ns per startswith
+
+(sha3 38.1% slower)
